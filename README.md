@@ -3,12 +3,6 @@
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kushalbhana&label=Profile%20views&color=0e75b6&style=flat" alt="kushalbhana" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushalbhana" alt="kushalbhana" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/kushalbhana" target="blank"><img src="https://img.shields.io/twitter/follow/kushalbhana?logo=twitter&style=for-the-badge" alt="kushalbhana" /></a> </p>
-
 - 🔭 I’m currently working on [Online Betting Website](https://nexabetx.vercel.app/)
 
 - 🌱 I’m currently learning **Kubernetes**
