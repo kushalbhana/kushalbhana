@@ -22,6 +22,5 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <img src="https://skillicons.dev/icons?i=express,react,aws,nextjs,nodejs,ts,docker,postgres,redis,appwrite,git,kubernetes,mongodb,mysql,prisma,prometheus,jest,grafana,js,cpp,kafka,cypress,vitest,tailwind,django,html,bootstrap,css,postman,vim,git,github" /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kushalbhana&show_icons=true&locale=en" alt="kushalbhana" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kushalbhana&" alt="kushalbhana" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kushalbhana&" alt="kushalbhana" /></p>
