@@ -19,9 +19,26 @@
 <a href="https://instagram.com/kushal_bhana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kushal_bhana" height="30" width="40" /></a>
 </p>
 
-I'm a passionate full-stack web developer with a knack for turning ideas into robust, scalable applications. I've worked on a range of freelance projects, including an online betting web application and a real estate website, where I honed my skills in crafting efficient and user-friendly solutions. My tech stack includes MERN (MongoDB, Express, React, Node.js), Next.js, JavaScript, TypeScript, and Python. I also have hands-on experience with Django for backend development, and I'm well-versed in modern DevOps practices, AWS, Docker, and microservices architectures like gRPC. 🚀
+## Hi, I'm Kushal Bhana! 👋
 
-I'm always excited to explore new technologies and thrive in problem-solving environments. When I'm not coding, you can find me diving into cloud computing, setting up Dockerized applications, or monitoring systems using Grafana. 💻 Whether it's ensuring real-time scalability for an online betting system or automating infrastructure deployment, I'm all about optimizing performance and delivering results. Let's build something amazing together! 🌟
+I'm a **full-stack web developer** passionate about building robust and scalable applications. Here's a bit about me:
+
+- 🔧 **Tech Stack:** MERN (MongoDB, Express, React, Node.js), Next.js, JavaScript, TypeScript, Python, Django
+- 🚀 **DevOps & Cloud:** Experienced with AWS, Docker, microservices (gRPC), Grafana, and CI/CD pipelines
+- 💡 **Freelance Projects:**
+  - **Online Betting Web Application:** Real-time scalability and performance optimization
+  - **Real Estate Website:** Clean, user-friendly design with efficient backend integration
+- 🧠 **Skills:** Web development, microservices architecture, cloud computing, real-time applications, testing & automation
+
+---
+
+### What Drives Me 🔥
+- **Problem-solving:** I thrive in environments where I can dive deep into challenges, whether optimizing infrastructure or building feature-rich web apps.
+- **Exploring Tech:** From setting up Dockerized apps to ensuring system monitoring with Grafana, I love staying on the cutting edge of development tools.
+- **Collaboration:** Whether you're looking for someone to brainstorm with or build scalable systems, I'm always open to working on exciting new projects!
+
+Let's connect and build something amazing together! 🌟
+
 
 
 <h3 align="center">Languages and Tools:</h3>
