@@ -23,8 +23,8 @@
 
 I'm a **full-stack web developer** passionate about building robust and scalable applications. Here's a bit about me:
 
-- 🔧 **Tech Stack:** MERN (MongoDB, Express, React, Node.js), Next.js, JavaScript, TypeScript, Python, Django
-- 🚀 **DevOps & Cloud:** Experienced with AWS, Docker, microservices (gRPC), Grafana, and CI/CD pipelines
+- 🔧 **Tech Stack:** MERN (MongoDB, Express, React, Node.js), Next.js, Postgres, JavaScript, TypeScript, Python, Django
+- 🚀 **DevOps & Cloud:** Experienced with AWS, Docker, microservices (gRPC), Redis, Kafka, Grafana, and CI/CD pipelines
 - 💡 **Freelance Projects:**
   - **Online Betting Web Application:** Real-time scalability and performance optimization
   - **Real Estate Website:** Clean, user-friendly design with efficient backend integration
