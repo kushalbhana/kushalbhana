@@ -19,6 +19,8 @@
 <a href="https://instagram.com/kushal_bhana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kushal_bhana" height="30" width="40" /></a>
 </p>
 
+---
+
 I'm a **full-stack web developer** passionate about building robust and scalable applications. Here's a bit about me:
 
 - 🔧 **Tech Stack:** MERN (MongoDB, Express, React, Node.js), Next.js, JavaScript, TypeScript, Python, Django
