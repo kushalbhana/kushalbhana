@@ -19,6 +19,11 @@
 <a href="https://instagram.com/kushal_bhana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kushal_bhana" height="30" width="40" /></a>
 </p>
 
+I'm a passionate full-stack web developer with a knack for turning ideas into robust, scalable applications. I've worked on a range of freelance projects, including an online betting web application and a real estate website, where I honed my skills in crafting efficient and user-friendly solutions. My tech stack includes MERN (MongoDB, Express, React, Node.js), Next.js, JavaScript, TypeScript, and Python. I also have hands-on experience with Django for backend development, and I'm well-versed in modern DevOps practices, AWS, Docker, and microservices architectures like gRPC. 🚀
+
+I'm always excited to explore new technologies and thrive in problem-solving environments. When I'm not coding, you can find me diving into cloud computing, setting up Dockerized applications, or monitoring systems using Grafana. 💻 Whether it's ensuring real-time scalability for an online betting system or automating infrastructure deployment, I'm all about optimizing performance and delivering results. Let's build something amazing together! 🌟
+
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <img src="https://skillicons.dev/icons?i=express,react,aws,nextjs,nodejs,ts,docker,postgres,redis,appwrite,git,kubernetes,mongodb,mysql,prisma,prometheus,jest,grafana,js,cpp,kafka,cypress,vitest,tailwind,django,html,bootstrap,css,postman,vim,git,github" /> </p>
 
