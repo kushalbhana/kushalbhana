@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on Scalable realtime multiplayer Chessgame
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **RUST**
 
 - 👯 I’m looking to collaborate on **projects**
 
