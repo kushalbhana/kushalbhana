@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/kushalbhana" target="blank"><img src="https://img.shields.io/twitter/follow/kushalbhana?logo=twitter&style=for-the-badge" alt="kushalbhana" /></a> </p>
 
-- 🔭 I’m currently working on Scalable realtime multiplayer Chessgame
+- 🔭 I’m currently working on Intelligent Multi-Cloud Cost Optimizer and Auto-Migrator
 
-- 🌱 I’m currently learning **RUST**
+- 🌱 I’m currently learning **Golang**
 
 - 👯 I’m looking to collaborate on **projects**
 
