@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Kushal Bhana</h1>
-<h3 align="center">SDE at a Stealth Web3 startup from India</h3>
+<h3 align="center">Software Developer at a Stealth Web3 startup lives in India</h3>
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
