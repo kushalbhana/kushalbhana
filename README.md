@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/kushalbhana" target="blank"><img src="https://img.shields.io/twitter/follow/kushalbhana?logo=twitter&style=for-the-badge" alt="kushalbhana" /></a> </p>
 
-- 🔭 I’m currently working on Intelligent Multi-Cloud Auto-Migrator and Blockcahin indexers
+- 🔭 I’m currently working on Blockcahin indexers
 
 - 🌱 I’m currently learning **Rust**
 
