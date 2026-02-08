@@ -1,14 +1,14 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Kushal Bhana</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India</h3>
+<h3 align="center">SDE at a Stealth Web3 startup from India</h3>
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <a href="https://twitter.com/kushalbhana" target="blank"><img src="https://img.shields.io/twitter/follow/kushalbhana?logo=twitter&style=for-the-badge" alt="kushalbhana" /></a> </p>
 
-- 🔭 I’m currently working on Intelligent Multi-Cloud Cost Optimizer and Auto-Migrator
+- 🔭 I’m currently working on Intelligent Multi-Cloud Auto-Migrator and Blockcahin indexers
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Rust**
 
 - 👯 I’m looking to collaborate on **projects**
 
