@@ -20,7 +20,7 @@
 
 # Hi 👋, I'm **Kushal Bhana**
 
-### Software Developer Intern @ [Luganodes](https://luganodes.com) · Web3 · Blockchain Infrastructure
+### Software Developer Intern @ [Luganodes](https://luganodes.com) · Web3 · Blockchain Infrastructure · India 🇮🇳
 
 > *"Building the infrastructure layer that the decentralized world runs on."*
 
@@ -110,17 +110,23 @@ Built and maintained high-throughput blockchain indexers for multiple networks i
 
 ---
 
+### ♟️ Chessmasters — Kubernetes-Powered Multiplayer Chess &nbsp;[![GitHub](https://img.shields.io/badge/MIT-Open_Source-blueviolet?style=flat-square&logo=github)](https://github.com/kushalbhana/Chessmasters-multiplayer)
+> *Turborepo · Next.js · WebSockets · Redis · WebRTC · Chess.js · Stockfish · Kubernetes*
+
+A fully scalable, real-time multiplayer chess platform engineered for production. Leverages **Kubernetes** for orchestration and horizontal scaling, **WebSockets** for live game state sync, **WebRTC** for peer communication, and **Redis** for session and pub/sub management. Integrated **Stockfish** engine for AI opponent play. Built as a **Turborepo monorepo** for clean separation of frontend, backend, and shared packages.
+
+```bash
+git clone https://github.com/kushalbhana/Chessmasters-multiplayer
+cd Chessmasters-multiplayer && npm install
+# configure .env → start Redis → npm run dev
+```
+
+---
+
 ### 🎰 Real-Time Online Betting Platform
 > *Freelance · High-concurrency · WebSockets*
 
 Engineered a real-time betting web application with emphasis on **scalability, low latency, and data consistency**. Handled concurrent users with event-driven architecture and ensured performance under load.
-
----
-
-### 🏠 Real Estate Web Platform
-> *Freelance · Full-Stack · Clean UX*
-
-Designed and built a full real estate listings platform with an efficient backend, clean UI and optimized data queries — delivered end to end as a solo developer.
 
 ---
 
